@@ -1,0 +1,69 @@
+body{color:gold}
+body {
+  background-color: #0645a5; /* dark blue background */
+  background-image: url('blue back ironman.webp');
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: center;
+
+
+
+}
+body#blog {
+  background-color: #0645a5; /* dark blue background */
+  
+  background-image: url('blue back ironman.webp');
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: top;
+
+
+
+}
+
+
+
+h4 { 
+color: silver;
+font-family: Georgia, 'Times New Roman', Times, serif;
+border: solid, color(srgb rgb(255, 217, 0) rgb(128, 47, 0) rgb(255, 30, 0));
+
+}
+p {
+color: maroon;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+img {
+width: 700px;
+height: 500px;
+box-shadow: 5px 5px 5px black;
+
+}
+
+img#blogImg1 {
+width: 700px;
+height: 900px;
+box-shadow: 5px 5px 5px black;
+
+}
+
+form {
+background-color: black;
+width: 15%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}
+
+h1#blogTitle {
+color: red;
+align-content: center;
+
+}
+
+a {
+    color:darkgray
+}

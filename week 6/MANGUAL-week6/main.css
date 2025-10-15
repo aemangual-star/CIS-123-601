@@ -1,0 +1,5 @@
+body {
+    background-color: rgb(4, 0, 255);
+    color: cadetblue;
+}
+label{width: 100px; float: left}

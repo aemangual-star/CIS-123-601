@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #06c3c0e3;
+
+
+}
+/* In your styles.css file */
+#cast-list {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+#cast-list p {
+    padding: 5px 0;
+    border-bottom: 1px dashed #eee;
+}
+
+#cast-list p:last-child {
+    border-bottom: none;
+}

@@ -1,0 +1,56 @@
+body { background-color: royalblue;}
+body { color: darkred;}
+h1 {
+    background-color: red;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Vidaloka', serif;
+    font-size: 72pt;
+    box-shadow: 0px 0px 51px black
+   
+
+}
+/*
+h2 {
+trying hard lol
+
+.carnival-background {
+  background: repeating-linear-gradient(
+    45deg,
+    #ff0000, /* Red */
+    #ff0000 25px,
+    #ffffff 25px, /* White */
+    #ffffff 50px,
+    #0000ff 50px, /* Blue */
+    #0000ff 75px
+  );
+
+ 
+
+   
+}
+ */
+
+h2{
+    background-color: rebeccapurple;
+
+}
+
+h2#secondtext {
+    background-color: white;
+
+}
+
+ul, ol { 
+    font-family: 'Libre Baskerville', serif;
+}
+
+img {
+width: 700px;
+height: 500px;
+box-shadow: 5px 5px 5px black;
+
+
+}
+
+}
